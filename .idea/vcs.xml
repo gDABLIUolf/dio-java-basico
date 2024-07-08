@@ -2,5 +2,15 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChequeEspecial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Contador" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ControleSaque" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimulaçãoBancaria" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VerificadorIdade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VerificarDigitos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-banco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terminal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testando-debugger" vcs="Git" />
   </component>
 </project>
